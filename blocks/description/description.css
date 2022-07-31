@@ -1,0 +1,8 @@
+.description {
+    background-color: #F1F1F2;
+    background-image: url('../../images/description-postcard.jpg');
+    background-size: 721px 600px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    min-height: 600px;
+}

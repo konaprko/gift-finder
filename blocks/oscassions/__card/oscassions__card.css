@@ -1,0 +1,10 @@
+.oscassions__card {
+    max-width: 270px;
+    background-color: #FAFAFA;
+    min-height: 436px;
+}
+
+.oscassions__card:first-child {
+    background-color: #FFFFFF;
+    filter: drop-shadow(10px 10px 15px rgba(0, 0, 0, 0.05));
+}

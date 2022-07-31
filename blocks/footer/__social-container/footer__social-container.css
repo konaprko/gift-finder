@@ -1,0 +1,8 @@
+.footer__social-container {
+    padding-top: 56px;
+    width: 294px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 73px;
+    list-style: none;
+}

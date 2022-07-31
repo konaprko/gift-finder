@@ -1,0 +1,9 @@
+.header__logo {
+    margin: 0;
+    padding: 0;
+    font-family: 'Homemade Apple';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 39px;
+    color: #231F20;
+}

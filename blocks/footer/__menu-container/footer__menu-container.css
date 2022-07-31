@@ -1,0 +1,10 @@
+.footer__menu-container {
+    padding: 53px 186px;
+    box-sizing: border-box;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    border-bottom: 1px solid #000000;
+    list-style: none;
+}

@@ -1,0 +1,8 @@
+.information {
+    background-color: #F1F1F2;
+    background-image: url('../../images/information-happy-people.jpg');
+    background-size: 719px 700px;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    min-height: 700px;
+}

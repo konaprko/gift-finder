@@ -1,0 +1,8 @@
+.header__link {
+    box-sizing: border-box;
+    padding-right: 31px;
+}
+
+.header__link:last-child {
+    padding-right: 0;
+}

@@ -1,0 +1,18 @@
+.description__button {
+    text-transform: uppercase;
+    background-color: #F1F1F2;
+    border: 1px solid #F7941E;
+    border-radius: 5px;
+    min-width: 200px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F7941E;
+    padding-top: 21px;
+    padding-bottom: 16px;
+    margin-top: 35px;
+}
+
+.description__button:hover {
+    background-color: #F7941E;
+    color: #FFFFFF;
+}

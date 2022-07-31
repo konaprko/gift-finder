@@ -1,0 +1,13 @@
+.blog__feature {
+    margin: 71px auto 40px;
+    padding-top: 63px;
+    box-sizing: border-box;
+    max-width: 1170px;
+    min-height: 370px;
+    background-color: #231F20;
+    color: #FFFFFF;
+    background-image: url('../../../images/blogs-people.jpg');
+    background-size: 400px 370px;
+    background-position: left top;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,19 @@
+.getting-started__button {
+    text-transform: uppercase;
+    background-color: #F7941E;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    min-width: 200px;
+    min-height: 50px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-left: 16px;
+    padding: 0;
+}
+
+.getting-started__button:hover {
+    color: #FFFFFF;
+    background-color: #000000;
+}

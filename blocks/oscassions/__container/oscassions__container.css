@@ -1,0 +1,5 @@
+.oscassions__container {
+    padding-top: 64px;
+    max-width: calc(1440px - 2*135px);
+    margin: 0 auto;
+}
